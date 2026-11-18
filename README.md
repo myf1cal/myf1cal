@@ -7,7 +7,7 @@
   <p>Creating nothing</p>
 
   <p>
-    <img src="https://skillicons.dev/icons?i=python,git,github,vscode,discord,terminal,docker,windows&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,git,github,vscode,discord,mysql,docker,windows&theme=dark" alt="Tech Stack" />
   </p>
 
 </div>
