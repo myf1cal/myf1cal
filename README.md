@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A8B1FF&center=true&vCenter=true&width=435&lines=hi%2C+i'm+myf1cal;);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A8B1FF&center=true&vCenter=true&width=435&lines=hi%2C+i'm+myf1cal;;" alt="Typing SVG" />
 
   <h3>(˶˃𐃷˂˶)</h3>
 
