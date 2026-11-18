@@ -1,4 +1,4 @@
-<img width="1024" height="529" alt="4222b45f-7fed-44b2-8b9f-73b7f8c8e0bd" src="https://github.com/user-attachments/assets/78246da9-e594-4d8b-879d-4bfdf31ea3e2" />
+
 <div align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A8B1FF&center=true&vCenter=true&width=435&lines=hi%2C+i'm+myf1cal;" alt="Typing SVG" />
