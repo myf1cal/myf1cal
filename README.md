@@ -42,7 +42,7 @@
 
   <br/><br/>
 
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pnvkzxd32tcm5qts7pdyvq6fma&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=470788&bar_color_cover=false" alt="Spotify" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pnvkzxd32tcm5qts7pdyvq6fma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color_cover=false" alt="Spotify" />
 
   <br/><br/>
 
