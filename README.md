@@ -2,7 +2,9 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A8B1FF&center=true&vCenter=true&width=435&lines=hi%2C+i'm+myf1cal;);" alt="Typing SVG" />
 
-  <p>Creating minimalist Windows utilities and tinkering with code.</p>
+  <h3>(˶˃𐃷˂˶)</h3>
+
+  <p>Creating nothing</p>
 
   <p>
     <img src="https://skillicons.dev/icons?i=python,git,github,vscode,windows&theme=dark" alt="Tech Stack" />
@@ -13,7 +15,7 @@
 ---
 
 ### ⚡ Featured Project
-* **[Aether](https://github.com/myf1cal/Aether)** — PC monitoring, system diagnostics, and benchmarking tool.
+- **[Aether](https://github.com/myf1cal/Aether)** — PC monitoring, system diagnostics, and benchmarking tool.
 
 <br/>
 
